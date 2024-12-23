@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🙋🏻‍♂️Hi ! My name is Axel and I'm a 22 years old Data Scientist Junior from Paris
+🙋🏻‍♂️Hi ! My name is Axel and I'm a 23 years old Data Scientist Junior from Paris
 
 👨🏻‍💻 Currently working on LLMs at [Nexialog Consulting](https://www.nexialog.com)
 
-📓 Student in data science and financial modeling at Paris 1 Panthéon Sorbonne University
+📓 Student in data science and Machine Learning at Paris 1 Panthéon Sorbonne University
 
 👁️ Interested in Deep Learning, LLMs and Python development
 
